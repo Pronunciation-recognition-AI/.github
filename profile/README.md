@@ -7,7 +7,7 @@
 ♿ 장애 플러스 기술(장애인을 위한 APP 개발 공모전)
 ```
 <div align="center">
-  <a href="https://github.com/Pronunciation-recognition-AI/main/tree/for_android"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkfpd.org&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2370FF00&title=mAI+Help+U&edge_flat=false"/></a>
+  <a href="https://github.com/Pronunciation-recognition-AI/main/tree/for_android"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkfpd.org&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2370FF00&title=mAI+Help+U+Main+Repository&edge_flat=false"/></a>
 </div>
 
 ---
