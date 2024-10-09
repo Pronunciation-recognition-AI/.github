@@ -100,5 +100,7 @@
 ---
 ### 💜 Result
 
+https://github.com/user-attachments/assets/a3d16677-baec-4bdb-802c-d32121df03ca
 [![image](https://github.com/user-attachments/assets/4e17ecba-21df-49c1-8b40-4db37f103f55)](https://youtu.be/l3m3iL59ku4)
+
 ---
