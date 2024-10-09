@@ -46,7 +46,7 @@
 ---
 
 ### 👥 PROGMATISM Team
-| 홍건하 | 김미르 | 배대한 | 최홍석 |
+| [PM]홍건하 | 김미르 | 배대한 | 최홍석 |
 | :---: | :---: | :---: | :---: |
 | <img width="160px" src= "https://github.com/user-attachments/assets/0558be9e-3f27-4340-8184-4b812cca0ebf" /> | <img width="160px" src= "https://github.com/user-attachments/assets/d7c1b4a4-0a88-439f-bf37-02080f40e9b3" /> | <img width="160px" src="https://github.com/user-attachments/assets/6f7aecf5-d52c-4306-b164-e5713a2a8fc4"/> | <img width="160px" src="https://github.com/user-attachments/assets/e42318eb-0b49-4d00-8310-90fa23610a63"/> |
 | [@honggunha](https://github.com/honggunha) | [@kimmireu0220](https://github.com/kimmireu0220) | [@meoham1](https://github.com/meoham1) | [@ChatHongPT](https://github.com/ChatHongPT) |
