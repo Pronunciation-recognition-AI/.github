@@ -69,7 +69,6 @@
 <img src="https://img.shields.io/static/v1?label=Firebase&message=21.0.0&color=DD2C00&logo=Firebase" alt="Firebase">
 <img src="https://img.shields.io/static/v1?label=Python&message=3.12&color=3776AB&logo=Python" alt="Python">
 <img src="https://img.shields.io/static/v1?label=Android Studio&message=8.5.1&color=34A853&logo=Android Studio" alt="Android Studio">
-<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
 
 
 
